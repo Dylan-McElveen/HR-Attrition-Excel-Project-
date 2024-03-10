@@ -1,1 +1,1 @@
-The raw file contains the intial data I used for the project. The final draft file contains the cleaned version of the data.
+The raw file contains the intial data I used for the project. The final draft file contains the cleaned version of the data which also contains the dashboards featured on my portfolio page. Thank you for taking a look at my work :). Please let me know how I can continue to improve!
